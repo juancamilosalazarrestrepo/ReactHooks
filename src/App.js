@@ -1,6 +1,7 @@
 
 import './App.css';
 import ContadorUseState from "./components/ContadorUseState"
+import RelojHooks from './components/RelojHooks';
 import ScrollHooks from "./components/ScrollHook"
 
 
@@ -11,6 +12,8 @@ function App() {
       <ContadorUseState />
       <hr />
       <ScrollHooks />
+      <hr />
+      <RelojHooks />
 
 
     </div>

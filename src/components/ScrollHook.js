@@ -38,9 +38,6 @@ export default function ScrollHools() {
         <>
             <h2> Hooks - useEffect y el ciclo de vida</h2>
             <p>Scroll y del Navegador {scrollY} px</p>
-            <div className="div">
-                hola
-            </div>
         </>
     )
 }
